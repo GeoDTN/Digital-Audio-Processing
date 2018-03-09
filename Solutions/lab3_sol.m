@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Digital Audio Processing %
 %    Lab. 3 - Solutions    %
-%   Alessio Degani, 2014   %
+%   Tadewos Somano, 2014   %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clear
