@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Digital Audio Processing %
 %    Lab. 4 - Solutions    %
-%   Alessio Degani, 2014   %
+%  Tadewos Somano, 2014   %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %% Read the MIDI file
